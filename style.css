@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo:wght@600&family=Kameron&family=Merienda+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Viga&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cairo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300;400&display=swap');
+html{
+    font-family: Viga, "Arimo", Helvetica, sans-serif;
+}
+
+.container{
+    width:1200;
+    margin:auto;
+    overflow:auto;
+    padding: 0px 390px;
+    margin-right: 240px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.container h2 a{
+    float: left;
+    margin-right: 70px;
+    font-size: 50px;
+    color:#3a526c;
+    margin-top: -19px;
+    
+}
+
+.container ul li{
+    float:left;
+    margin:0px 0px 0px;
+    padding-right: 40px; 
+    list-style: none;
+    font-size: 20px;
+    
+}
+.container ul li a{
+    color: #3a526c;
+    font-family: Viga, Helvetica, sans-serif;
+    padding: 23px 31px;
+    margin: -32px;
+}
+.container ul li a:hover{
+    background-color:#3a526c ;
+    color :white;
+}
+.container ul{
+    margin-right: 200px;
+    text-decoration: none;
+}
+.container ul i{
+    margin-left: 164px;
+    color: #0cd5af;
+    font-size: 25px;
+    font-weight: lighter;
+}
+
+
+.navbar{
+    background-size: auto;
+    width: 100%;
+}
+
+.header{
+    background-image:url('https://i.ibb.co/CWy0qyH/slider01.jpg?fbclid=IwAR1bDjRrzRY_qvgM_Vxjh4UXdNqGRn5pScZdX2VpFvvhmBESQrUeAtcGaKE');
+    background-size:cover;
+    height: 600px;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 70px;
+}
+
+h1{
+    font-size: 86px;
+    color: white;
+}
+.header p{
+
+    color: #b7bcbd;
+    padding-top: 20px;
+    font-family: -webkit-pictograph;
+    font-size: 28px;
+    font-weight: lighter;
+ 
+    margin-bottom: 83px;
+    margin-top: -92px;
+}
+.btn:hover{
+    background-color:#0098a2;
+    text-decoration: none;
+    color:#3a526c;
+}
+.btn{
+    background-color:#0cd5af;
+    text-decoration: none;
+    color:white;
+    padding: 20px 60px;
+    margin-top: 50px;
+
+}
+.main{
+    text-align:center;
+    font-size: 25px;
+    color:#3a526c;
+    margin-bottom: 50px;
+
+
+}
+.main p {
+    font-size: 18px;
+    color :#4e6073;
+
+}
+/*last section*/
+.passion{
+    float:left;
+}
+
+.creativitay{
+    float: left;
+
+}
+.quality{
+    float:right;
+}
+.icon{
+    float:left:
+}
+.box{
+    width: 28.3%;
+    margin: 0 27px; 
+    color :#4e6073;
+
+
+}
+.lastsection{
+    width:1200px;
+    margin:auto;
+    overflow:auto;
+    padding: 0px 390px;
+    margin-right: 240px;
+}
+span {
+    float: left;
+    margin: 6% 0% 0% -14%;
+    font-size: 40px;
+color: #0cd5af;
+}
+.footer{
+        background-size: auto;
+        background-color:#3a526c ;
+        color:white;
+        font-family: 'cairo' ;
+        width: 100%;
+        text-align: center;
+        padding:6px;
+        margin-top: 20px;
+}
